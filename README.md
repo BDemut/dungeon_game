@@ -17,22 +17,25 @@ General:
 - You gain money along the way which you can spend in stores
 - You can carry up to 2 pieces of equipment at any time (one for each hand, no infinite pockets, sorry).
 - By killing enemies you gain experience and level up - with each level you can spend 2 points upgrading your stats
+
 Fighting:
 - A - a normal "physical" attack
 - S - you use a spell - a spell has random effects which have a higher chance of happening the higher your magic skill is
   (effects are: set the enemy ablaze, stun the enemy, steal some of the enemy's life)
 - F - try to escape
+
 Stats:
 - Strength - the more you have the more damage your normal attacks do
 - Toughness - the more you have the less damage you take
 - Magic - the more you have the better chance you spells do something
 - Speed - the more you have the better chance of success when escaping a fight
+
 Map:
-'x' - the player
-' ' - a room, treasure room or special room
-'/' - unexplored area
-'0' - a wall
-'S' - level start
-'E' - level end
-'B' - boss room
-'$' - a store
+- 'x' - the player
+- ' ' - a room, treasure room or special room
+- '/' - unexplored area
+- '0' - a wall
+- 'S' - level start
+- 'E' - level end
+- 'B' - boss room
+- '$' - a store
