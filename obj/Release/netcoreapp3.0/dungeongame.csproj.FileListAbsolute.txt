@@ -1,0 +1,11 @@
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\dungeongame.exe
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\dungeongame.deps.json
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\dungeongame.runtimeconfig.json
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\dungeongame.runtimeconfig.dev.json
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\dungeongame.dll
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\dungeongame.pdb
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.0\dungeongame.csprojAssemblyReference.cache
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.0\dungeongame.AssemblyInfoInputs.cache
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.0\dungeongame.AssemblyInfo.cs
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.0\dungeongame.dll
+C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\obj\Release\netcoreapp3.0\dungeongame.pdb

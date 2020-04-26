@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pixeldungeontylkogorsze</id>
+    <version>1.0.0</version>
+    <authors>pixeldungeontylkogorsze</authors>
+    <owners>pixeldungeontylkogorsze</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\pixeldungeontylkogorsze.runtimeconfig.json" target="lib\netcoreapp3.0\pixeldungeontylkogorsze.runtimeconfig.json" />
+    <file src="C:\Users\Kek\Desktop\ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp3.0\pixeldungeontylkogorsze.dll" target="lib\netcoreapp3.0\pixeldungeontylkogorsze.dll" />
+  </files>
+</package>
