@@ -1,5 +1,5 @@
 # dungeon_game
-A fun C# project I did a while ago to practice the language and general OOP concepts.
+A fun C# project I made during my 1st semester of college to practice the language and general OOP concepts.
 It's a simple rouge-like game with a randomly generated world and a simple console UI.
 Some information about the inner workings of the game is in the code itself as comments.
 If anyone stumbles across this repository - all feedback is welcome.
