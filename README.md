@@ -10,6 +10,11 @@ If you actually compile it and run it let me know how smooth it runs on your mac
 Also I focused more on making a good project than on making a fun game so it might be a little difficult and unforgiving 
 (by a little I mean a lot which, although was the idea from the very beggining, can be frustrating)
 
+# Screenshots
+![screenshot1](https://github.com/BDemut/dungeon_game/blob/master/1.JPG?raw=true)
+![screenshot2](https://github.com/BDemut/dungeon_game/blob/master/2.JPG?raw=true)
+![screenshot3](https://github.com/BDemut/dungeon_game/blob/master/3.JPG?raw=true)
+![screenshot4](https://github.com/BDemut/dungeon_game/blob/master/4.JPG?raw=true)
 
 # That said for anyone that decides to play it:
 General:
